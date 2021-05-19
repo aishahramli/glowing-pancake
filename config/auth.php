@@ -76,6 +76,8 @@ return [
     |
     */
 
+    // Comment
+
     'providers' => [
         'users' => [
             'driver' => 'eloquent',
